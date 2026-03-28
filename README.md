@@ -3,6 +3,8 @@
 A self-hosted copy of [vite-plugin-react-click-to-component](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component).
 Use this when you can't install the npm package directly.
 
+![Demo](assets/demo.gif)
+
 > **Dev-only** — all hooks are no-ops in production builds. Zero bundle impact.
 
 ---
